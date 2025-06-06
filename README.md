@@ -9,4 +9,4 @@ Em desenvolvimento...
 - MySQL
 
 # Time de desenvolvedores
-- [David]
+- [David]https://www.linkedin.com/in/david-ferreira-4401b9270/
